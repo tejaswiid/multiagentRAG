@@ -1,6 +1,6 @@
 
 In this Blog we will build a multi AI agent with RAG using Langraph and AstraDB with integration with the Llama 3.1 open source model using Groq API. 
-# Building Applications with Langchain and AstraDB
+# Building Applications with Langgraph and Multiagents and RAG
 
 This project demonstrates how to build applications leveraging Langchain, a powerful framework for Large Language Model (LLM) applications, and AstraDB, a managed cloud database service. We will also introduce LangGraph, a library for managing workflows visually in LLM projects.
 
